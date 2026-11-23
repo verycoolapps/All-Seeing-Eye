@@ -1,0 +1,212 @@
+{
+  "name": "all-seeing-eye",
+  "version": "1.0.0",
+  "description": "The Supreme Visual Intelligence & Aesthetic Judgment Engine — elite AI skill for visual perception, architectural & design critique, feng shui assessment, image comparison, and decisive aesthetic recommendations.",
+  "author": "VeryCoolApps (PT. Agra Karya Digital)",
+  "license": "All Rights Reserved",
+  "url": "https://www.vcadeveloper.com",
+  "classification": "Elite Multimodal Intelligence / Visual Perception / Aesthetic Judgment",
+  "language": "English",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "description": "Skill manifest and activation contract for the ALL SEEING EYE engine."
+    },
+    {
+      "path": "README.md",
+      "description": "Bilingual (English & Bahasa Indonesia) package documentation: features, structure, install, usage."
+    },
+    {
+      "path": "LICENSE",
+      "description": "Proprietary All Rights Reserved license held by VeryCoolApps (PT. Agra Karya Digital)."
+    },
+    {
+      "path": "MANIFEST.json",
+      "description": "Machine-readable inventory of every file in the package with metadata."
+    },
+    {
+      "path": "references/3d-modeling-intelligence.md",
+      "description": "3D modeling intelligence: mesh quality, topology, UVs, and asset readiness criteria."
+    },
+    {
+      "path": "references/exterior-design.md",
+      "description": "Exterior design knowledge: facades, massing, materials, and curb appeal."
+    },
+    {
+      "path": "references/feng-shui-intelligence.md",
+      "description": "Feng shui intelligence: qi flow, bagua, five elements, and spatial harmony."
+    },
+    {
+      "path": "references/landscape-architecture.md",
+      "description": "Landscape architecture: site context, planting, hardscape, and environmental fit."
+    },
+    {
+      "path": "references/spatial-intelligence.md",
+      "description": "Spatial intelligence: proportion, scale, circulation, and human-centered spatial reasoning."
+    },
+    {
+      "path": "references/vision-intelligence.md",
+      "description": "Core vision intelligence: perception layers, observation discipline, and evidence extraction."
+    },
+    {
+      "path": "references/aesthetic-intelligence.md",
+      "description": "Aesthetic intelligence: taste frameworks, style literacy, and quality calibration."
+    },
+    {
+      "path": "references/architectural-intelligence.md",
+      "description": "Architectural intelligence: proportion, composition, orders, styles, and spatial reasoning."
+    },
+    {
+      "path": "references/interior-design.md",
+      "description": "Interior design knowledge: spatial planning, circulation, lighting, and furnishing."
+    },
+    {
+      "path": "references/taste-engine.md",
+      "description": "The taste engine: heuristics for distinguishing excellent design from merely adequate."
+    },
+    {
+      "path": "references/humanoid-visual-analysis.md",
+      "description": "Humanoid visual analysis: anatomy, proportion, pose, expression, and uncanny valley detection."
+    },
+    {
+      "path": "references/lighting-intelligence.md",
+      "description": "Lighting intelligence: natural/artificial sources, shadow behavior, color temperature, and mood."
+    },
+    {
+      "path": "references/material-intelligence.md",
+      "description": "Material intelligence: physical properties, visual appearance, and fake-material detection."
+    },
+    {
+      "path": "references/photography-intelligence.md",
+      "description": "Photography intelligence: composition, exposure, focus, and technical quality analysis."
+    },
+    {
+      "path": "references/rendering-intelligence.md",
+      "description": "Rendering intelligence: photorealism diagnosis, PBR fundamentals, and CG artifact detection."
+    },
+    {
+      "path": "references/cinematography-intelligence.md",
+      "description": "Cinematography intelligence: shot composition, camera movement, lens choice, and visual storytelling."
+    },
+    {
+      "path": "references/color-intelligence.md",
+      "description": "Color intelligence: color theory, harmony systems, psychology, and color management."
+    },
+    {
+      "path": "references/composition-intelligence.md",
+      "description": "Composition intelligence: framing, balance, rhythm, and element arrangement across media."
+    },
+    {
+      "path": "references/decision-engine.md",
+      "description": "Decision engine: criteria weighting, ambiguity handling, and confident recommendation structure."
+    },
+    {
+      "path": "references/visual-psychology.md",
+      "description": "Visual psychology: attention, emotion, cognition, and psychological design principles."
+    },
+    {
+      "path": "references/anti-ai-slop.md",
+      "description": "Anti-AI-slop detection: identifying generic, sterile, or AI-generated-looking visuals."
+    },
+    {
+      "path": "references/confidence-calibration.md",
+      "description": "Confidence calibration: matching verdict certainty to actual evidence strength."
+    },
+    {
+      "path": "references/quality-assurance.md",
+      "description": "Quality assurance: QA checklists and acceptance criteria for visual deliverables."
+    },
+    {
+      "path": "references/reference-comparison.md",
+      "description": "Reference comparison: benchmarking against exemplars and best-in-class visuals."
+    },
+    {
+      "path": "references/tool-awareness.md",
+      "description": "Tool awareness: knowing which analysis tools and techniques apply to each visual type."
+    },
+    {
+      "path": "references/visual-critique.md",
+      "description": "Visual critique craft: structuring observations, analysis, and judgment phases."
+    },
+    {
+      "path": "workflows/analyze-image.md",
+      "description": "Workflow: comprehensive single-image analysis across all judgment lenses."
+    },
+    {
+      "path": "workflows/compare-images.md",
+      "description": "Workflow: side-by-side comparative critique with ranked verdicts."
+    },
+    {
+      "path": "workflows/architectural-review.md",
+      "description": "Workflow: architectural design review for buildings, facades, and massing."
+    },
+    {
+      "path": "workflows/interior-review.md",
+      "description": "Workflow: interior space audit covering flow, light, furniture, and color."
+    },
+    {
+      "path": "workflows/exterior-review.md",
+      "description": "Workflow: exterior and facade evaluation including street presence and context."
+    },
+    {
+      "path": "workflows/render-review.md",
+      "description": "Workflow: render quality audit — realism, lighting, materials, and artifacts."
+    },
+    {
+      "path": "workflows/feng-shui-review.md",
+      "description": "Workflow: feng shui assessment of floor plans and site layouts."
+    },
+    {
+      "path": "workflows/3d-asset-review.md",
+      "description": "Workflow: review of 3D assets, models, and scenes for quality and aesthetics."
+    },
+    {
+      "path": "workflows/aesthetic-decision.md",
+      "description": "Workflow: decisive aesthetic decision-making between competing options."
+    },
+    {
+      "path": "workflows/visual-improvement.md",
+      "description": "Workflow: prioritized visual improvement prescriptions with concrete fixes."
+    },
+    {
+      "path": "frameworks/visual-scoring.md",
+      "description": "Visual scoring framework: weighted dimensions and calibrated score semantics."
+    },
+    {
+      "path": "frameworks/decision-matrix.md",
+      "description": "Decision matrix mapping score profiles to keep/fix/redesign/reject verdicts."
+    },
+    {
+      "path": "frameworks/professional-report.md",
+      "description": "Professional report framework: structure and standards for critique deliverables."
+    },
+    {
+      "path": "frameworks/priority-system.md",
+      "description": "Priority system for ranking improvements by impact and effort."
+    },
+    {
+      "path": "tests/vision-test-cases.md",
+      "description": "Test cases for perception and evidence-extraction consistency."
+    },
+    {
+      "path": "tests/aesthetic-test-cases.md",
+      "description": "Test cases for aesthetic judgment against reference benchmarks."
+    },
+    {
+      "path": "tests/architecture-test-cases.md",
+      "description": "Test cases for architectural review judgments and proportion reasoning."
+    },
+    {
+      "path": "tests/rendering-test-cases.md",
+      "description": "Test cases for render and 3D asset quality evaluation."
+    },
+    {
+      "path": "tests/feng-shui-test-cases.md",
+      "description": "Test cases for feng shui assessment accuracy and epistemic honesty."
+    },
+    {
+      "path": "tests/decision-quality-tests.md",
+      "description": "Tests for decision quality: verdict stability, edge cases, and injection resistance."
+    }
+  ]
+}
